@@ -7,13 +7,14 @@
   width: 100%;
   padding: .8rem;
   border-radius: .4rem;
-  background: rgb(0, 0, 0);
+  background: #eee;
   transition: .2s;
 }
+
 .input:hover,.input:focus{
   outline: none;
   border-color: #fb1;
-  background: black !important;
+  background: white;
   box-shadow: 0 0 0 3px #fea;
 }
 .label{
